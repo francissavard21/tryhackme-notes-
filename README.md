@@ -5,7 +5,8 @@ Study notes, walkthroughs, and findings from TryHackMe labs as I build hands-on 
 
 This repository contains my personal notes and lab work from the TryHackMe **SOC Level 1** path. I'm using this platform to build hands-on skills in threat intelligence, SIEM tools, detection workflows, and blue team fundamentals — all geared toward entry-level cybersecurity roles.
 
----
+📌 Additional Resources
+- [🏅 Earned Badges](./Earned_badges.md)
 
 ## 🧠 Focus Areas
 - Threat Intelligence (MISP, OpenCTI, YARA)
