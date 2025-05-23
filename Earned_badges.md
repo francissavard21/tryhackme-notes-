@@ -4,22 +4,53 @@ This page showcases the badges I've earned through hands-on cybersecurity traini
 
 ---
 
-## 🛡️ Cyber Defence Framework
+<div align="center">
 
-<img src="https://assets.tryhackme.com/img/badges/cyberdefenceframework.svg" alt="Cyber Defence Framework Badge" width="200"/>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://assets.tryhackme.com/img/badges/cyberdefenceframework.svg" alt="Cyber Defence Framework" width="120"/>
+      <br/>
+      <strong>Cyber Defence Framework</strong>
+    </td>
+    <td align="center">
+      <img src="https://assets.tryhackme.com/img/badges/linux.svg" alt="Linux Fundamentals" width="120"/>
+      <br/>
+      <strong>Linux Fundamentals</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.svg" alt="Network Fundamentals" width="120"/>
+      <br/>
+      <strong>Network Fundamentals</strong>
+    </td>
+    <td align="center">
+      <img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" alt="How the Web Works" width="120"/>
+      <br/>
+      <strong>How the Web Works</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://assets.tryhackme.com/img/badges/webbed.svg" alt="Webbed" width="120"/>
+      <br/>
+      <strong>Webbed</strong>
+    </td>
+    <td align="center">
+      <!-- Placeholder for next badge -->
+    </td>
+  </tr>
+</table>
 
-**Skills Gained:**
-- Learned the NIST Cybersecurity Framework (Identify, Protect, Detect, Respond, Recover)
-- Mapped SOC analyst responsibilities to real-world defensive operations
-- Strengthened understanding of structured threat defense strategy
+</div>
 
 ---
 
-## 🐧 Linux Fundamentals
+## 🧠 Skills Gained
 
-<img src="https://assets.tryhackme.com/img/badges/linux.svg" alt="Linux Fundamentals Badge" width="200"/>
-
-**Skills Gained:**
-- Basic Linux command-line navigation and permissions
-- File system structure and essential admin commands
-- Foundation for Linux-based security operations
+- Threat detection aligned with the NIST Cybersecurity Framework  
+- Linux CLI navigation, permissions, and file structure  
+- Core networking protocols: TCP/IP, DNS, ICMP, ports  
+- Web technologies: HTTP, status codes, cookies, headers  
+- Practical web exploitation fundamentals
