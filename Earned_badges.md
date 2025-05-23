@@ -5,6 +5,11 @@ This file showcases the badges I've earned through hands-on cybersecurity traini
 ---
 
 ## 🛡️ Cyber Defence Framework
-![Cyber Defence Framework](https://assets.tryhackme.com/img/badges/cyberdefenceframework.svg)
+
+<img src="https://assets.tryhackme.com/img/badges/cyberdefenceframework.svg" alt="Cyber Defence Framework Badge" width="200"/>
+**Skills Gained:**
+- Learned the NIST Cybersecurity Framework (Identify, Protect, Detect, Respond, Recover)
+- Mapped SOC analyst responsibilities to real-world defensive operations
+- Strengthened understanding of structured threat defense strategy
 
 
