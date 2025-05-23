@@ -27,10 +27,9 @@ This repository contains my personal notes and lab work from the TryHackMe **SOC
 
 ## 📂 Notes in This Repo
 - `misp-room.md` – IOC management and sharing with MISP
-- `search-commands.md` – Basic search logic used across labs
 - More notes coming soon as I progress through the path
 
 ---
 
-## 🎯 My Goal
+ My Goal
 I'm transitioning from a technical operations background into cybersecurity. This repo tracks my practical learning and lab work as I prepare for roles such as **SOC Analyst** or **Cybersecurity Analyst**.
