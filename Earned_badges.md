@@ -38,7 +38,9 @@ This page showcases the badges I've earned through hands-on cybersecurity traini
       <strong>Webbed</strong>
     </td>
     <td align="center">
-      <!-- Placeholder for next badge -->
+      <img src="https://assets.tryhackme.com/img/badges/cyberthreatintellegenceblue.svg" alt="Cyber Threat Intelligence Blue" width="120"/>
+      <br/>
+      <strong>Cyber Threat Intelligence - Blue</strong>
     </td>
   </tr>
 </table>
@@ -53,4 +55,5 @@ This page showcases the badges I've earned through hands-on cybersecurity traini
 - Linux CLI navigation, permissions, and file structure  
 - Core networking protocols: TCP/IP, DNS, ICMP, ports  
 - Web technologies: HTTP, status codes, cookies, headers  
-- Practical web exploitation fundamentals
+- Practical web exploitation fundamentals  
+- Application of cyber threat intelligence in blue team workflows  
