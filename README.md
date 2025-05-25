@@ -1,19 +1,21 @@
-# tryhackme-notes-
+# tryhackme-notes
+
 Study notes, walkthroughs, and findings from TryHackMe labs as I build hands-on cybersecurity skills.
+
+---
 
 # TryHackMe Cybersecurity Labs – SOC Level 1 Path
 
-This repository contains my personal notes and lab work from the TryHackMe **SOC Level 1** path. I'm using this platform to build hands-on skills in threat intelligence, SIEM tools, detection workflows, and blue team fundamentals — all geared toward entry-level cybersecurity roles.
+This repository contains my personal notes and lab work from the TryHackMe **SOC Level 1** path. I'm using this platform to build practical skills in threat intelligence, SIEM operations, alert triage, and blue team workflows — all geared toward entry-level cybersecurity roles.
 
-📌 Additional Resources
-- [🏅 Earned Badges](./Earned_badges.md)
+---
 
 ## 🧠 Focus Areas
-- Threat Intelligence (MISP, OpenCTI, YARA)
-- Indicator of Compromise (IOC) analysis
-- SIEM concepts and search query basics
-- Incident detection and triage techniques
-- Core SOC tools and workflows
+- Threat Intelligence workflows
+- IOC identification and enrichment
+- SIEM fundamentals and Splunk usage
+- Incident detection, triage, and log correlation
+- Hands-on experience with tools like MISP, OpenCTI, and YARA
 
 ---
 
@@ -23,14 +25,22 @@ This repository contains my personal notes and lab work from the TryHackMe **SOC
 - [YARA](https://tryhackme.com/room/yara)
 - [OpenCTI](https://tryhackme.com/room/opencti)
 - [MISP](./misp-room.md) *(notes inside repo)*
+- [Friday Overtime](./friday-overtime.md) *(SIEM investigation with Splunk)*
 
 ---
 
 ## 📂 Notes in This Repo
-- `misp-room.md` – IOC management and sharing with MISP
-- More notes coming soon as I progress through the path
+- `misp-room.md` – IOC management and threat sharing via MISP
+- `friday-overtime.md` – Splunk-based log investigation walkthrough
+- More lab notes coming soon...
 
 ---
 
- My Goal
-I'm transitioning from a technical operations background into cybersecurity. This repo tracks my practical learning and lab work as I prepare for roles such as **SOC Analyst** or **Cybersecurity Analyst**.
+## 📌 Additional Resources
+- [🏅 Earned Badges](./Earned_badges.md)
+
+---
+
+## 🎯 My Goal
+
+I'm transitioning from a technical operations background into cybersecurity. This repo documents my progress, tools I'm learning, and practical labs I'm completing to prepare for roles such as **SOC Analyst** or **Cybersecurity Analyst**.
