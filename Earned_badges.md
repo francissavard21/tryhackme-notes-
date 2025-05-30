@@ -43,6 +43,18 @@ This page showcases the badges I've earned through hands-on cybersecurity traini
       <strong>Cyber Threat Intelligence - Blue</strong>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://assets.tryhackme.com/img/badges/networksecurityandtrafficanalysisv2.svg" alt="Network Security & Traffic Analysis" width="120"/>
+      <br/>
+      <strong>Network Security & Traffic Analysis</strong>
+    </td>
+    <td align="center">
+      <img src="https://assets.tryhackme.com/img/badges/streak7.svg" alt="7-Day Streak" width="120"/>
+      <br/>
+      <strong>7-Day Streak</strong>
+    </td>
+  </tr>
 </table>
 
 </div>
