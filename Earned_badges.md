@@ -68,4 +68,5 @@ This page showcases the badges I've earned through hands-on cybersecurity traini
 - Core networking protocols: TCP/IP, DNS, ICMP, ports  
 - Web technologies: HTTP, status codes, cookies, headers  
 - Practical web exploitation fundamentals  
-- Application of cyber threat intelligence in blue team workflows  
+- Application of cyber threat intelligence in blue team workflows
+- Tshark with real practicals
