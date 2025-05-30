@@ -60,13 +60,16 @@ This page showcases the badges I've earned through hands-on cybersecurity traini
 </div>
 
 ---
-
-## 🧠 Skills Gained
-
-- Threat detection aligned with the NIST Cybersecurity Framework  
-- Linux CLI navigation, permissions, and file structure  
-- Core networking protocols: TCP/IP, DNS, ICMP, ports  
-- Web technologies: HTTP, status codes, cookies, headers  
-- Practical web exploitation fundamentals  
-- Application of cyber threat intelligence in blue team workflows
-- Tshark with real practicals
+🧠 Skills Gained
+	•	Threat detection aligned with the NIST Cybersecurity Framework
+	•	Linux CLI navigation, permissions, and file structure
+	•	Core networking protocols: TCP/IP, DNS, ICMP, ports
+	•	Web technologies: HTTP, status codes, cookies, headers
+	•	Practical web exploitation fundamentals
+	•	Application of cyber threat intelligence in blue team workflows
+	•	Wireshark: Inspected packet-level data, reconstructed sessions, and identified malicious patterns in real-time
+	•	Tshark: Analyzed pcap files, extracted indicators, and investigated DNS, HTTP, and suspicious traffic via CLI
+	•	Snort: Wrote and tuned IDS rules to detect port scans, malware traffic, and brute-force attacks
+	•	Zeek: Monitored network behavior, extracted logs for HTTP, SSL, DNS, and identified anomalies
+	•	Brim: Visualized Zeek logs and Suricata alerts for timeline analysis, filtering, and threat hunting
+	•	Worked with network-based detection tools to correlate suspicious activity and build incident reports
